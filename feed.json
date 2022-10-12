@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Angel&#x27;s First Website",
+    "description": "",
+    "home_page_url": "https://angelicaalacantar.github.io/publisite",
+    "feed_url": "https://angelicaalacantar.github.io/publisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Angelica Alcantar"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://angelicaalacantar.github.io/publisite/sitemap.xml
